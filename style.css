@@ -40,16 +40,16 @@ nav ul li a:hover{
     height:230px;
     border-radius:10px
 }
-#home h2{
+#home h2 {
     margin-bottom:15px;
 }
-#home h3{
+#home h3 {
     margin-bottom:15px;
 }
-#home p{
+#home p {
     margin:15px 0;
 }
-section{
+section {
     padding:35px 50px;
 }
 section h2{
